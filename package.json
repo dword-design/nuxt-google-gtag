@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@nuxtjs/google-gtag": "^1.0.4",
-    "depcheck-package-name": "^2.0.6"
+    "depcheck-package-name": "^3.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^8.6.12"
